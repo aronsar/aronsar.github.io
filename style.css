@@ -7,19 +7,19 @@
  * https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
  */
 
-@page {
-    size: A4; /* or any other size */
-    margin: 11mm; /* Adjust the value as needed */
-}
+/* @page {
+    size: A4; 
+    margin: 11mm; 
+} */
 
 
 /* Whole document */
 body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     margin: auto;
+    margin-bottom: 50mm;
     background: #FFFFFF;
-    width: 188mm;
-    /*padding: 10px 100px 10px 100px;*/
+    width: 210mm;
 }
 
 /* Title of the resume */
